@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.button{
+  border: none;
+  background-color: rgb(148, 234, 19);
+  padding: 15px 32px;
+  margin: 4px 2px;
+  cursor: pointer; 
+  border-radius: 55px;
+  font-size: medium;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+  }
+
+  
